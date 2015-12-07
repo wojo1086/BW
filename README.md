@@ -27,3 +27,5 @@ This technique is **NOT** included with this plugin, yet.
 ### Conclusion
 
 I am constantly tweaking and adding new features. Keep checking back for updates.
+
+*Works with jQuery v1.7.1+*
