@@ -2,7 +2,7 @@
 
 ##### A very, tiny plugin that changes the color of elements to their greyscale counterpart.
 
-[Head on over to the main page for examples.](http://wimbletim.com/bw.html)
+[Head on over to the main page for a quick tutorial and examples.](http://wimbletim.com/bw.html)
 
 With Black & White, all you need to do is call the function on an element and all the children in that element will have its colors converted to greyscale. This styles affected are:
 
