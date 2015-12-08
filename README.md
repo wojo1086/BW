@@ -6,11 +6,9 @@
 
 With Black & White, all you need to do is call the function on an element and all the children in that element will have its colors converted to greyscale. The styles currently affected are:
 
-*Background Color
-
-*Text Color
-
-*Border Color
+* Background Color
+* Text Color
+* Border Color
 
 It also takes opacity into consideration.
 
