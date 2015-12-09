@@ -23,16 +23,21 @@
 
 				if (list[i].name.context == el.context)
 				{
-					index = i+1;
+					index = i;
+
 				}
 			}
+
 			for(var i=index; i < list.length; i++)
 			{
-				for (var property in list[i].color)
+				if(jQuery.contains(list[index].name.context,list[i].name.context))
 				{
-					if (list[i].color.hasOwnProperty(property)) {
-						list[i].name.css(property, list[i].color[property]);
+					for (var property in list[i].color)
+					{
+						if (list[i].color.hasOwnProperty(property)) {
+							list[i].name.css(property, list[i].color[property]);
 
+						}
 					}
 				}
 			}	
