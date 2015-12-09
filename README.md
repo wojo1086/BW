@@ -1,4 +1,4 @@
-# Black & White
+# Blakenwite
 
 ##### A very, tiny plugin that changes the color of elements to their greyscale counterpart.
 
