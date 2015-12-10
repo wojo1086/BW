@@ -6,9 +6,9 @@
 
 ## Basic Usage
 
-'''
+```
 $('#someElement').bw('dull');
-'''
+```
 
 With Black & White, all you need to do is call the function on an element and all the children in that element will have its colors converted to greyscale. The styles currently affected are:
 
